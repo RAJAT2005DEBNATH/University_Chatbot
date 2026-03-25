@@ -1,0 +1,8 @@
+Course: Computer Science Engineering. Duration: 4 years. [cite: 21]
+Subjects: Data Structures, AI, Cloud Computing, Cybersecurity, Machine Learning, and Blockchain. [cite: 21]
+Hostel Rules: No late entry after 10 PM. ID card mandatory at all times. [cite: 21, 22]
+Visitors: Allowed in common areas until 7 PM. No overnight guests permitted. [cite: 22]
+Exams: Mid-semester exams are held in October; Final exams are in April. [cite: 22]
+Events: Tech Fest (March) includes Hackathons and AI workshops. Cultural Fest (November) includes music and drama. [cite: 22]
+Library: Open 8 AM to 9 PM. During exam months (October/April), it remains open 24/7.
+Canteen: Operates from 7 AM to 10 PM. Specialized menus available during fests.
