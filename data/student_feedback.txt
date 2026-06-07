@@ -1,0 +1,300 @@
+Feedback ID: UF0001 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0002 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0003 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0004 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0005 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0006 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0007 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0008 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0009 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0010 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0011 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0012 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0013 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0014 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0015 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0016 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0017 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0018 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0019 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0020 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.
+Feedback ID: UF0021 | Rating: 4/5 | Category: Administration | Feedback: Staff members are generally cooperative when approached directly.
+Feedback ID: UF0022 | Rating: 5/5 | Category: Research | Feedback: Faculty actively encourage undergraduate research participation.
+Feedback ID: UF0023 | Rating: 4/5 | Category: Research | Feedback: Research facilities support project-based learning.
+Feedback ID: UF0024 | Rating: 3/5 | Category: Research | Feedback: More interdisciplinary research opportunities would be welcome.
+Feedback ID: UF0025 | Rating: 4/5 | Category: Examination | Feedback: Exam schedules are usually announced in advance.
+Feedback ID: UF0026 | Rating: 3/5 | Category: Examination | Feedback: Students prefer quicker publication of results.
+Feedback ID: UF0027 | Rating: 5/5 | Category: Examination | Feedback: The evaluation process appears fair and transparent.
+Feedback ID: UF0028 | Rating: 4/5 | Category: Infrastructure | Feedback: Classrooms are spacious and suitable for learning.
+Feedback ID: UF0029 | Rating: 3/5 | Category: Infrastructure | Feedback: Some buildings require renovation and modernization.
+Feedback ID: UF0030 | Rating: 5/5 | Category: Infrastructure | Feedback: The campus environment is conducive to academic activities.
+Feedback ID: UF0031 | Rating: 2/5 | Category: WiFi | Feedback: WiFi coverage is inconsistent in some areas of the campus.
+Feedback ID: UF0032 | Rating: 4/5 | Category: WiFi | Feedback: Internet access in academic buildings is generally reliable.
+Feedback ID: UF0033 | Rating: 5/5 | Category: Scholarship | Feedback: Scholarship opportunities help deserving students continue their studies.
+Feedback ID: UF0034 | Rating: 4/5 | Category: Scholarship | Feedback: Information regarding scholarships is communicated effectively.
+Feedback ID: UF0035 | Rating: 5/5 | Category: Student Welfare | Feedback: Student support services are helpful during academic difficulties.
+Feedback ID: UF0036 | Rating: 4/5 | Category: Student Welfare | Feedback: Counselling facilities are available when needed.
+Feedback ID: UF0037 | Rating: 5/5 | Category: Campus Life | Feedback: Technical and cultural events create an engaging student experience.
+Feedback ID: UF0038 | Rating: 4/5 | Category: Campus Life | Feedback: Student clubs provide opportunities for skill development.
+Feedback ID: UF0039 | Rating: 3/5 | Category: Cafeteria | Feedback: Food quality is acceptable but menu variety could be improved.
+Feedback ID: UF0040 | Rating: 4/5 | Category: Transportation | Feedback: The campus location is well connected by public transport.
+Feedback ID: UF0041 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0042 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0043 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0044 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0045 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0046 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0047 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0048 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0049 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0050 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0051 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0052 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0053 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0054 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0055 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0056 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0057 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0058 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0059 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0060 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.
+Feedback ID: UF0061 | Rating: 4/5 | Category: Administration | Feedback: Staff members are generally cooperative when approached directly.
+Feedback ID: UF0062 | Rating: 5/5 | Category: Research | Feedback: Faculty actively encourage undergraduate research participation.
+Feedback ID: UF0063 | Rating: 4/5 | Category: Research | Feedback: Research facilities support project-based learning.
+Feedback ID: UF0064 | Rating: 3/5 | Category: Research | Feedback: More interdisciplinary research opportunities would be welcome.
+Feedback ID: UF0065 | Rating: 4/5 | Category: Examination | Feedback: Exam schedules are usually announced in advance.
+Feedback ID: UF0066 | Rating: 3/5 | Category: Examination | Feedback: Students prefer quicker publication of results.
+Feedback ID: UF0067 | Rating: 5/5 | Category: Examination | Feedback: The evaluation process appears fair and transparent.
+Feedback ID: UF0068 | Rating: 4/5 | Category: Infrastructure | Feedback: Classrooms are spacious and suitable for learning.
+Feedback ID: UF0069 | Rating: 3/5 | Category: Infrastructure | Feedback: Some buildings require renovation and modernization.
+Feedback ID: UF0070 | Rating: 5/5 | Category: Infrastructure | Feedback: The campus environment is conducive to academic activities.
+Feedback ID: UF0071 | Rating: 2/5 | Category: WiFi | Feedback: WiFi coverage is inconsistent in some areas of the campus.
+Feedback ID: UF0072 | Rating: 4/5 | Category: WiFi | Feedback: Internet access in academic buildings is generally reliable.
+Feedback ID: UF0073 | Rating: 5/5 | Category: Scholarship | Feedback: Scholarship opportunities help deserving students continue their studies.
+Feedback ID: UF0074 | Rating: 4/5 | Category: Scholarship | Feedback: Information regarding scholarships is communicated effectively.
+Feedback ID: UF0075 | Rating: 5/5 | Category: Student Welfare | Feedback: Student support services are helpful during academic difficulties.
+Feedback ID: UF0076 | Rating: 4/5 | Category: Student Welfare | Feedback: Counselling facilities are available when needed.
+Feedback ID: UF0077 | Rating: 5/5 | Category: Campus Life | Feedback: Technical and cultural events create an engaging student experience.
+Feedback ID: UF0078 | Rating: 4/5 | Category: Campus Life | Feedback: Student clubs provide opportunities for skill development.
+Feedback ID: UF0079 | Rating: 3/5 | Category: Cafeteria | Feedback: Food quality is acceptable but menu variety could be improved.
+Feedback ID: UF0080 | Rating: 4/5 | Category: Transportation | Feedback: The campus location is well connected by public transport.
+Feedback ID: UF0081 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0082 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0083 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0084 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0085 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0086 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0087 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0088 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0089 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0090 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0091 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0092 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0093 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0094 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0095 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0096 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0097 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0098 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0099 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0100 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.
+Feedback ID: UF0101 | Rating: 4/5 | Category: Administration | Feedback: Staff members are generally cooperative when approached directly.
+Feedback ID: UF0102 | Rating: 5/5 | Category: Research | Feedback: Faculty actively encourage undergraduate research participation.
+Feedback ID: UF0103 | Rating: 4/5 | Category: Research | Feedback: Research facilities support project-based learning.
+Feedback ID: UF0104 | Rating: 3/5 | Category: Research | Feedback: More interdisciplinary research opportunities would be welcome.
+Feedback ID: UF0105 | Rating: 4/5 | Category: Examination | Feedback: Exam schedules are usually announced in advance.
+Feedback ID: UF0106 | Rating: 3/5 | Category: Examination | Feedback: Students prefer quicker publication of results.
+Feedback ID: UF0107 | Rating: 5/5 | Category: Examination | Feedback: The evaluation process appears fair and transparent.
+Feedback ID: UF0108 | Rating: 4/5 | Category: Infrastructure | Feedback: Classrooms are spacious and suitable for learning.
+Feedback ID: UF0109 | Rating: 3/5 | Category: Infrastructure | Feedback: Some buildings require renovation and modernization.
+Feedback ID: UF0110 | Rating: 5/5 | Category: Infrastructure | Feedback: The campus environment is conducive to academic activities.
+Feedback ID: UF0111 | Rating: 2/5 | Category: WiFi | Feedback: WiFi coverage is inconsistent in some areas of the campus.
+Feedback ID: UF0112 | Rating: 4/5 | Category: WiFi | Feedback: Internet access in academic buildings is generally reliable.
+Feedback ID: UF0113 | Rating: 5/5 | Category: Scholarship | Feedback: Scholarship opportunities help deserving students continue their studies.
+Feedback ID: UF0114 | Rating: 4/5 | Category: Scholarship | Feedback: Information regarding scholarships is communicated effectively.
+Feedback ID: UF0115 | Rating: 5/5 | Category: Student Welfare | Feedback: Student support services are helpful during academic difficulties.
+Feedback ID: UF0116 | Rating: 4/5 | Category: Student Welfare | Feedback: Counselling facilities are available when needed.
+Feedback ID: UF0117 | Rating: 5/5 | Category: Campus Life | Feedback: Technical and cultural events create an engaging student experience.
+Feedback ID: UF0118 | Rating: 4/5 | Category: Campus Life | Feedback: Student clubs provide opportunities for skill development.
+Feedback ID: UF0119 | Rating: 3/5 | Category: Cafeteria | Feedback: Food quality is acceptable but menu variety could be improved.
+Feedback ID: UF0120 | Rating: 4/5 | Category: Transportation | Feedback: The campus location is well connected by public transport.
+Feedback ID: UF0121 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0122 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0123 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0124 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0125 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0126 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0127 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0128 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0129 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0130 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0131 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0132 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0133 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0134 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0135 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0136 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0137 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0138 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0139 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0140 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.
+Feedback ID: UF0141 | Rating: 4/5 | Category: Administration | Feedback: Staff members are generally cooperative when approached directly.
+Feedback ID: UF0142 | Rating: 5/5 | Category: Research | Feedback: Faculty actively encourage undergraduate research participation.
+Feedback ID: UF0143 | Rating: 4/5 | Category: Research | Feedback: Research facilities support project-based learning.
+Feedback ID: UF0144 | Rating: 3/5 | Category: Research | Feedback: More interdisciplinary research opportunities would be welcome.
+Feedback ID: UF0145 | Rating: 4/5 | Category: Examination | Feedback: Exam schedules are usually announced in advance.
+Feedback ID: UF0146 | Rating: 3/5 | Category: Examination | Feedback: Students prefer quicker publication of results.
+Feedback ID: UF0147 | Rating: 5/5 | Category: Examination | Feedback: The evaluation process appears fair and transparent.
+Feedback ID: UF0148 | Rating: 4/5 | Category: Infrastructure | Feedback: Classrooms are spacious and suitable for learning.
+Feedback ID: UF0149 | Rating: 3/5 | Category: Infrastructure | Feedback: Some buildings require renovation and modernization.
+Feedback ID: UF0150 | Rating: 5/5 | Category: Infrastructure | Feedback: The campus environment is conducive to academic activities.
+Feedback ID: UF0151 | Rating: 2/5 | Category: WiFi | Feedback: WiFi coverage is inconsistent in some areas of the campus.
+Feedback ID: UF0152 | Rating: 4/5 | Category: WiFi | Feedback: Internet access in academic buildings is generally reliable.
+Feedback ID: UF0153 | Rating: 5/5 | Category: Scholarship | Feedback: Scholarship opportunities help deserving students continue their studies.
+Feedback ID: UF0154 | Rating: 4/5 | Category: Scholarship | Feedback: Information regarding scholarships is communicated effectively.
+Feedback ID: UF0155 | Rating: 5/5 | Category: Student Welfare | Feedback: Student support services are helpful during academic difficulties.
+Feedback ID: UF0156 | Rating: 4/5 | Category: Student Welfare | Feedback: Counselling facilities are available when needed.
+Feedback ID: UF0157 | Rating: 5/5 | Category: Campus Life | Feedback: Technical and cultural events create an engaging student experience.
+Feedback ID: UF0158 | Rating: 4/5 | Category: Campus Life | Feedback: Student clubs provide opportunities for skill development.
+Feedback ID: UF0159 | Rating: 3/5 | Category: Cafeteria | Feedback: Food quality is acceptable but menu variety could be improved.
+Feedback ID: UF0160 | Rating: 4/5 | Category: Transportation | Feedback: The campus location is well connected by public transport.
+Feedback ID: UF0161 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0162 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0163 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0164 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0165 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0166 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0167 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0168 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0169 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0170 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0171 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0172 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0173 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0174 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0175 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0176 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0177 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0178 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0179 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0180 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.
+Feedback ID: UF0181 | Rating: 4/5 | Category: Administration | Feedback: Staff members are generally cooperative when approached directly.
+Feedback ID: UF0182 | Rating: 5/5 | Category: Research | Feedback: Faculty actively encourage undergraduate research participation.
+Feedback ID: UF0183 | Rating: 4/5 | Category: Research | Feedback: Research facilities support project-based learning.
+Feedback ID: UF0184 | Rating: 3/5 | Category: Research | Feedback: More interdisciplinary research opportunities would be welcome.
+Feedback ID: UF0185 | Rating: 4/5 | Category: Examination | Feedback: Exam schedules are usually announced in advance.
+Feedback ID: UF0186 | Rating: 3/5 | Category: Examination | Feedback: Students prefer quicker publication of results.
+Feedback ID: UF0187 | Rating: 5/5 | Category: Examination | Feedback: The evaluation process appears fair and transparent.
+Feedback ID: UF0188 | Rating: 4/5 | Category: Infrastructure | Feedback: Classrooms are spacious and suitable for learning.
+Feedback ID: UF0189 | Rating: 3/5 | Category: Infrastructure | Feedback: Some buildings require renovation and modernization.
+Feedback ID: UF0190 | Rating: 5/5 | Category: Infrastructure | Feedback: The campus environment is conducive to academic activities.
+Feedback ID: UF0191 | Rating: 2/5 | Category: WiFi | Feedback: WiFi coverage is inconsistent in some areas of the campus.
+Feedback ID: UF0192 | Rating: 4/5 | Category: WiFi | Feedback: Internet access in academic buildings is generally reliable.
+Feedback ID: UF0193 | Rating: 5/5 | Category: Scholarship | Feedback: Scholarship opportunities help deserving students continue their studies.
+Feedback ID: UF0194 | Rating: 4/5 | Category: Scholarship | Feedback: Information regarding scholarships is communicated effectively.
+Feedback ID: UF0195 | Rating: 5/5 | Category: Student Welfare | Feedback: Student support services are helpful during academic difficulties.
+Feedback ID: UF0196 | Rating: 4/5 | Category: Student Welfare | Feedback: Counselling facilities are available when needed.
+Feedback ID: UF0197 | Rating: 5/5 | Category: Campus Life | Feedback: Technical and cultural events create an engaging student experience.
+Feedback ID: UF0198 | Rating: 4/5 | Category: Campus Life | Feedback: Student clubs provide opportunities for skill development.
+Feedback ID: UF0199 | Rating: 3/5 | Category: Cafeteria | Feedback: Food quality is acceptable but menu variety could be improved.
+Feedback ID: UF0200 | Rating: 4/5 | Category: Transportation | Feedback: The campus location is well connected by public transport.
+Feedback ID: UF0201 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0202 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0203 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0204 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0205 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0206 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0207 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0208 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0209 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0210 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0211 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0212 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0213 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0214 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0215 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0216 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0217 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0218 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0219 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0220 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.
+Feedback ID: UF0221 | Rating: 4/5 | Category: Administration | Feedback: Staff members are generally cooperative when approached directly.
+Feedback ID: UF0222 | Rating: 5/5 | Category: Research | Feedback: Faculty actively encourage undergraduate research participation.
+Feedback ID: UF0223 | Rating: 4/5 | Category: Research | Feedback: Research facilities support project-based learning.
+Feedback ID: UF0224 | Rating: 3/5 | Category: Research | Feedback: More interdisciplinary research opportunities would be welcome.
+Feedback ID: UF0225 | Rating: 4/5 | Category: Examination | Feedback: Exam schedules are usually announced in advance.
+Feedback ID: UF0226 | Rating: 3/5 | Category: Examination | Feedback: Students prefer quicker publication of results.
+Feedback ID: UF0227 | Rating: 5/5 | Category: Examination | Feedback: The evaluation process appears fair and transparent.
+Feedback ID: UF0228 | Rating: 4/5 | Category: Infrastructure | Feedback: Classrooms are spacious and suitable for learning.
+Feedback ID: UF0229 | Rating: 3/5 | Category: Infrastructure | Feedback: Some buildings require renovation and modernization.
+Feedback ID: UF0230 | Rating: 5/5 | Category: Infrastructure | Feedback: The campus environment is conducive to academic activities.
+Feedback ID: UF0231 | Rating: 2/5 | Category: WiFi | Feedback: WiFi coverage is inconsistent in some areas of the campus.
+Feedback ID: UF0232 | Rating: 4/5 | Category: WiFi | Feedback: Internet access in academic buildings is generally reliable.
+Feedback ID: UF0233 | Rating: 5/5 | Category: Scholarship | Feedback: Scholarship opportunities help deserving students continue their studies.
+Feedback ID: UF0234 | Rating: 4/5 | Category: Scholarship | Feedback: Information regarding scholarships is communicated effectively.
+Feedback ID: UF0235 | Rating: 5/5 | Category: Student Welfare | Feedback: Student support services are helpful during academic difficulties.
+Feedback ID: UF0236 | Rating: 4/5 | Category: Student Welfare | Feedback: Counselling facilities are available when needed.
+Feedback ID: UF0237 | Rating: 5/5 | Category: Campus Life | Feedback: Technical and cultural events create an engaging student experience.
+Feedback ID: UF0238 | Rating: 4/5 | Category: Campus Life | Feedback: Student clubs provide opportunities for skill development.
+Feedback ID: UF0239 | Rating: 3/5 | Category: Cafeteria | Feedback: Food quality is acceptable but menu variety could be improved.
+Feedback ID: UF0240 | Rating: 4/5 | Category: Transportation | Feedback: The campus location is well connected by public transport.
+Feedback ID: UF0241 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0242 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0243 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0244 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0245 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0246 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0247 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0248 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0249 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0250 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0251 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0252 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0253 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0254 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0255 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0256 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0257 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0258 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0259 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0260 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.
+Feedback ID: UF0261 | Rating: 4/5 | Category: Administration | Feedback: Staff members are generally cooperative when approached directly.
+Feedback ID: UF0262 | Rating: 5/5 | Category: Research | Feedback: Faculty actively encourage undergraduate research participation.
+Feedback ID: UF0263 | Rating: 4/5 | Category: Research | Feedback: Research facilities support project-based learning.
+Feedback ID: UF0264 | Rating: 3/5 | Category: Research | Feedback: More interdisciplinary research opportunities would be welcome.
+Feedback ID: UF0265 | Rating: 4/5 | Category: Examination | Feedback: Exam schedules are usually announced in advance.
+Feedback ID: UF0266 | Rating: 3/5 | Category: Examination | Feedback: Students prefer quicker publication of results.
+Feedback ID: UF0267 | Rating: 5/5 | Category: Examination | Feedback: The evaluation process appears fair and transparent.
+Feedback ID: UF0268 | Rating: 4/5 | Category: Infrastructure | Feedback: Classrooms are spacious and suitable for learning.
+Feedback ID: UF0269 | Rating: 3/5 | Category: Infrastructure | Feedback: Some buildings require renovation and modernization.
+Feedback ID: UF0270 | Rating: 5/5 | Category: Infrastructure | Feedback: The campus environment is conducive to academic activities.
+Feedback ID: UF0271 | Rating: 2/5 | Category: WiFi | Feedback: WiFi coverage is inconsistent in some areas of the campus.
+Feedback ID: UF0272 | Rating: 4/5 | Category: WiFi | Feedback: Internet access in academic buildings is generally reliable.
+Feedback ID: UF0273 | Rating: 5/5 | Category: Scholarship | Feedback: Scholarship opportunities help deserving students continue their studies.
+Feedback ID: UF0274 | Rating: 4/5 | Category: Scholarship | Feedback: Information regarding scholarships is communicated effectively.
+Feedback ID: UF0275 | Rating: 5/5 | Category: Student Welfare | Feedback: Student support services are helpful during academic difficulties.
+Feedback ID: UF0276 | Rating: 4/5 | Category: Student Welfare | Feedback: Counselling facilities are available when needed.
+Feedback ID: UF0277 | Rating: 5/5 | Category: Campus Life | Feedback: Technical and cultural events create an engaging student experience.
+Feedback ID: UF0278 | Rating: 4/5 | Category: Campus Life | Feedback: Student clubs provide opportunities for skill development.
+Feedback ID: UF0279 | Rating: 3/5 | Category: Cafeteria | Feedback: Food quality is acceptable but menu variety could be improved.
+Feedback ID: UF0280 | Rating: 4/5 | Category: Transportation | Feedback: The campus location is well connected by public transport.
+Feedback ID: UF0281 | Rating: 5/5 | Category: Faculty | Feedback: The professors explain complex topics clearly and encourage classroom discussions.
+Feedback ID: UF0282 | Rating: 4/5 | Category: Faculty | Feedback: Faculty members are approachable during office hours and academic consultations.
+Feedback ID: UF0283 | Rating: 3/5 | Category: Faculty | Feedback: Some courses would benefit from additional practical examples.
+Feedback ID: UF0284 | Rating: 5/5 | Category: Curriculum | Feedback: The curriculum provides a strong foundation in computer science concepts.
+Feedback ID: UF0285 | Rating: 4/5 | Category: Curriculum | Feedback: Industry-relevant topics are included in several courses.
+Feedback ID: UF0286 | Rating: 3/5 | Category: Curriculum | Feedback: Certain subjects could be updated more frequently to match industry trends.
+Feedback ID: UF0287 | Rating: 5/5 | Category: Laboratory | Feedback: Programming laboratories provide valuable hands-on experience.
+Feedback ID: UF0288 | Rating: 4/5 | Category: Laboratory | Feedback: Lab assistants are helpful during practical sessions.
+Feedback ID: UF0289 | Rating: 2/5 | Category: Laboratory | Feedback: Some computers require hardware upgrades.
+Feedback ID: UF0290 | Rating: 4/5 | Category: Hostel | Feedback: Hostel rooms are reasonably maintained.
+Feedback ID: UF0291 | Rating: 3/5 | Category: Hostel | Feedback: Internet connectivity in the hostel can be inconsistent.
+Feedback ID: UF0292 | Rating: 2/5 | Category: Hostel | Feedback: Maintenance requests sometimes take time to resolve.
+Feedback ID: UF0293 | Rating: 5/5 | Category: Library | Feedback: The library has a wide collection of academic books.
+Feedback ID: UF0294 | Rating: 4/5 | Category: Library | Feedback: Digital resources are useful for research work.
+Feedback ID: UF0295 | Rating: 3/5 | Category: Library | Feedback: More copies of popular textbooks would be beneficial.
+Feedback ID: UF0296 | Rating: 5/5 | Category: Placement | Feedback: Placement training sessions helped improve interview skills.
+Feedback ID: UF0297 | Rating: 4/5 | Category: Placement | Feedback: Several reputed companies participate in recruitment drives.
+Feedback ID: UF0298 | Rating: 3/5 | Category: Placement | Feedback: Students would like to see more product-based companies visiting campus.
+Feedback ID: UF0299 | Rating: 2/5 | Category: Administration | Feedback: Administrative paperwork can be time-consuming.
+Feedback ID: UF0300 | Rating: 3/5 | Category: Administration | Feedback: Response times vary depending on the department.

@@ -1,0 +1,255 @@
+University Name: University of Calcutta
+Established: 24 January 1857
+Location: Kolkata, West Bengal, India
+University Type: Public State University
+Chancellor: Governor of West Bengal serves as Chancellor
+Administrative Head: Vice-Chancellor
+Main Academic Region: Kolkata Metropolitan Area
+Academic Structure: Undergraduate, Postgraduate and Research Programs
+Research Degrees Offered: PhD, DSc, DLitt
+Primary Language of Instruction: English in many programs
+Academic Calendar: Published periodically by the university
+Examination Authority: Controller of Examinations
+Student Services: Academic, administrative and examination support
+Campus: College Street Campus
+Campus: Rajabazar Science College Campus
+Campus: Alipore Campus
+Campus: Salt Lake Campus
+Campus: Asutosh Building
+Campus: Darbhanga Building
+Campus: Ballygunge Science College
+Faculty: Arts
+Faculty: Science
+Faculty: Commerce
+Faculty: Law
+Faculty: Education
+Faculty: Engineering and Technology
+Faculty: Fine Arts
+Faculty: Music
+Department: Bengali
+Department: English
+Department: Sanskrit
+Department: Hindi
+Department: Urdu
+Department: History
+Department: Political Science
+Department: Economics
+Department: Sociology
+Department: Philosophy
+Department: Psychology
+Department: Physics
+Department: Chemistry
+Department: Mathematics
+Department: Statistics
+Department: Computer Science
+Department: Geography
+Department: Geology
+Department: Botany
+Department: Zoology
+Department: Microbiology
+Department: Biochemistry
+Department: Commerce
+Department: Law
+Department: Education
+Department: Journalism and Mass Communication
+Course: BA Bengali Honours | Level: UG | Duration: 3 Years
+Course: BA English Honours | Level: UG | Duration: 3 Years
+Course: BA History Honours | Level: UG | Duration: 3 Years
+Course: BSc Physics Honours | Level: UG | Duration: 3 Years
+Course: BSc Chemistry Honours | Level: UG | Duration: 3 Years
+Course: BSc Mathematics Honours | Level: UG | Duration: 3 Years
+Course: BSc Computer Science Honours | Level: UG | Duration: 3 Years
+Course: BCom Honours | Level: UG | Duration: 3 Years
+Course: MA Bengali | Level: PG | Duration: 2 Years
+Course: MA English | Level: PG | Duration: 2 Years
+Course: MA History | Level: PG | Duration: 2 Years
+Course: MSc Physics | Level: PG | Duration: 2 Years
+Course: MSc Chemistry | Level: PG | Duration: 2 Years
+Course: MSc Mathematics | Level: PG | Duration: 2 Years
+Course: MSc Computer Science | Level: PG | Duration: 2 Years
+Course: MCom | Level: PG | Duration: 2 Years
+Course: LLM | Level: PG | Duration: 2 Years
+Course: PhD | Level: Research | Duration: Variable
+Evaluation Method: Semester examinations are used in many programs
+Assessment Component: Internal assessment may contribute to final grades
+Assessment Component: End-semester examination may contribute to final grades
+Result Publication: Results are published through official channels
+Document Service: Marksheet issuance
+Document Service: Degree certificate issuance
+Document Service: Migration certificate issuance
+Document Service: Transcript issuance
+Examination Process: Admit card required for examinations
+Examination Process: Examination schedules are notified officially
+Hostel Facility: Limited accommodation available subject to rules and availability
+Hostel Category: Boys hostel
+Hostel Category: Girls hostel
+Hostel Allocation Basis: Merit and seat availability
+Hostel Requirement: Compliance with hostel regulations
+Library Service: Reading room access
+Library Service: Reference section
+Library Service: Printed books
+Library Service: Academic journals
+Library Service: Digital resources
+Library Service: Research support materials
+Student Support: Anti-Ragging Cell
+Student Support: Grievance Redressal Mechanism
+Student Support: Scholarship assistance
+Student Support: Examination support
+Student Support: Research administration support
+Student Support: Career guidance
+Student Support: Placement support
+Student Support: NSS activities
+Student Support: NCC activities
+Student Support: Cultural activities
+FAQ Admission 1: Eligibility requirements vary by department
+FAQ Admission 2: Admission notifications are published officially
+FAQ Admission 3: Applicants should verify deadlines before applying
+FAQ Admission 4: Merit criteria may vary by program
+FAQ Admission 5: Required documents differ across courses
+FAQ Examination 1: Students should monitor examination notices regularly
+FAQ Examination 2: Examination forms may require timely submission
+FAQ Examination 3: Supplementary rules depend on university regulations
+FAQ Examination 4: Re-evaluation procedures follow notified guidelines
+FAQ Examination 5: Result review requests may have deadlines
+FAQ Research 1: Research scholars must follow departmental guidelines
+FAQ Research 2: PhD registration follows university regulations
+FAQ Research 3: Research progress monitoring may be required
+FAQ Research 4: Ethics compliance may apply to specific research
+FAQ Research 5: Thesis submission procedures are formally regulated
+FAQ Placement 1: Placement opportunities vary by discipline
+FAQ Placement 2: Career guidance activities may be organized
+FAQ Placement 3: Industry interaction programs may be conducted
+FAQ Placement 4: Students should maintain updated resumes
+FAQ Placement 5: Internship experience can strengthen employability
+Academic Unit: Bengali | Offers teaching activities
+Academic Unit: Bengali | Supports student academic development
+Academic Unit: Bengali | May conduct seminars and workshops
+Academic Unit: English | Offers teaching activities
+Academic Unit: English | Supports student academic development
+Academic Unit: English | May conduct seminars and workshops
+Academic Unit: Sanskrit | Offers teaching activities
+Academic Unit: Sanskrit | Supports student academic development
+Academic Unit: Sanskrit | May conduct seminars and workshops
+Academic Unit: Hindi | Offers teaching activities
+Academic Unit: Hindi | Supports student academic development
+Academic Unit: Hindi | May conduct seminars and workshops
+Academic Unit: Urdu | Offers teaching activities
+Academic Unit: Urdu | Supports student academic development
+Academic Unit: Urdu | May conduct seminars and workshops
+Academic Unit: History | Offers teaching activities
+Academic Unit: History | Supports student academic development
+Academic Unit: History | May conduct seminars and workshops
+Academic Unit: Political Science | Offers teaching activities
+Academic Unit: Political Science | Supports student academic development
+Academic Unit: Political Science | May conduct seminars and workshops
+Academic Unit: Economics | Offers teaching activities
+Academic Unit: Economics | Supports student academic development
+Academic Unit: Economics | May conduct seminars and workshops
+Academic Unit: Sociology | Offers teaching activities
+Academic Unit: Sociology | Supports student academic development
+Academic Unit: Sociology | May conduct seminars and workshops
+Academic Unit: Philosophy | Offers teaching activities
+Academic Unit: Philosophy | Supports student academic development
+Academic Unit: Philosophy | May conduct seminars and workshops
+Academic Unit: Psychology | Offers teaching activities
+Academic Unit: Psychology | Supports student academic development
+Academic Unit: Psychology | May conduct seminars and workshops
+Academic Unit: Physics | Offers teaching activities
+Academic Unit: Physics | Supports student academic development
+Academic Unit: Physics | May conduct seminars and workshops
+Academic Unit: Chemistry | Offers teaching activities
+Academic Unit: Chemistry | Supports student academic development
+Academic Unit: Chemistry | May conduct seminars and workshops
+Academic Unit: Mathematics | Offers teaching activities
+Academic Unit: Mathematics | Supports student academic development
+Academic Unit: Mathematics | May conduct seminars and workshops
+Academic Unit: Statistics | Offers teaching activities
+Academic Unit: Statistics | Supports student academic development
+Academic Unit: Statistics | May conduct seminars and workshops
+Academic Unit: Computer Science | Offers teaching activities
+Academic Unit: Computer Science | Supports student academic development
+Academic Unit: Computer Science | May conduct seminars and workshops
+Academic Unit: Geography | Offers teaching activities
+Academic Unit: Geography | Supports student academic development
+Academic Unit: Geography | May conduct seminars and workshops
+Academic Unit: Geology | Offers teaching activities
+Academic Unit: Geology | Supports student academic development
+Academic Unit: Geology | May conduct seminars and workshops
+Academic Unit: Botany | Offers teaching activities
+Academic Unit: Botany | Supports student academic development
+Academic Unit: Botany | May conduct seminars and workshops
+Academic Unit: Zoology | Offers teaching activities
+Academic Unit: Zoology | Supports student academic development
+Academic Unit: Zoology | May conduct seminars and workshops
+Academic Unit: Microbiology | Offers teaching activities
+Academic Unit: Microbiology | Supports student academic development
+Academic Unit: Microbiology | May conduct seminars and workshops
+Academic Unit: Biochemistry | Offers teaching activities
+Academic Unit: Biochemistry | Supports student academic development
+Academic Unit: Biochemistry | May conduct seminars and workshops
+Academic Unit: Commerce | Offers teaching activities
+Academic Unit: Commerce | Supports student academic development
+Academic Unit: Commerce | May conduct seminars and workshops
+Academic Unit: Law | Offers teaching activities
+Academic Unit: Law | Supports student academic development
+Academic Unit: Law | May conduct seminars and workshops
+Academic Unit: Education | Offers teaching activities
+Academic Unit: Education | Supports student academic development
+Academic Unit: Education | May conduct seminars and workshops
+Academic Unit: Journalism and Mass Communication | Offers teaching activities
+Academic Unit: Journalism and Mass Communication | Supports student academic development
+Academic Unit: Journalism and Mass Communication | May conduct seminars and workshops
+Program Fact: BA Bengali Honours | Academic Level: UG
+Program Fact: BA Bengali Honours | Typical Duration: 3 Years
+Program Fact: BA Bengali Honours | Subject-specific curriculum applies
+Program Fact: BA English Honours | Academic Level: UG
+Program Fact: BA English Honours | Typical Duration: 3 Years
+Program Fact: BA English Honours | Subject-specific curriculum applies
+Program Fact: BA History Honours | Academic Level: UG
+Program Fact: BA History Honours | Typical Duration: 3 Years
+Program Fact: BA History Honours | Subject-specific curriculum applies
+Program Fact: BSc Physics Honours | Academic Level: UG
+Program Fact: BSc Physics Honours | Typical Duration: 3 Years
+Program Fact: BSc Physics Honours | Subject-specific curriculum applies
+Program Fact: BSc Chemistry Honours | Academic Level: UG
+Program Fact: BSc Chemistry Honours | Typical Duration: 3 Years
+Program Fact: BSc Chemistry Honours | Subject-specific curriculum applies
+Program Fact: BSc Mathematics Honours | Academic Level: UG
+Program Fact: BSc Mathematics Honours | Typical Duration: 3 Years
+Program Fact: BSc Mathematics Honours | Subject-specific curriculum applies
+Program Fact: BSc Computer Science Honours | Academic Level: UG
+Program Fact: BSc Computer Science Honours | Typical Duration: 3 Years
+Program Fact: BSc Computer Science Honours | Subject-specific curriculum applies
+Program Fact: BCom Honours | Academic Level: UG
+Program Fact: BCom Honours | Typical Duration: 3 Years
+Program Fact: BCom Honours | Subject-specific curriculum applies
+Program Fact: MA Bengali | Academic Level: PG
+Program Fact: MA Bengali | Typical Duration: 2 Years
+Program Fact: MA Bengali | Subject-specific curriculum applies
+Program Fact: MA English | Academic Level: PG
+Program Fact: MA English | Typical Duration: 2 Years
+Program Fact: MA English | Subject-specific curriculum applies
+Program Fact: MA History | Academic Level: PG
+Program Fact: MA History | Typical Duration: 2 Years
+Program Fact: MA History | Subject-specific curriculum applies
+Program Fact: MSc Physics | Academic Level: PG
+Program Fact: MSc Physics | Typical Duration: 2 Years
+Program Fact: MSc Physics | Subject-specific curriculum applies
+Program Fact: MSc Chemistry | Academic Level: PG
+Program Fact: MSc Chemistry | Typical Duration: 2 Years
+Program Fact: MSc Chemistry | Subject-specific curriculum applies
+Program Fact: MSc Mathematics | Academic Level: PG
+Program Fact: MSc Mathematics | Typical Duration: 2 Years
+Program Fact: MSc Mathematics | Subject-specific curriculum applies
+Program Fact: MSc Computer Science | Academic Level: PG
+Program Fact: MSc Computer Science | Typical Duration: 2 Years
+Program Fact: MSc Computer Science | Subject-specific curriculum applies
+Program Fact: MCom | Academic Level: PG
+Program Fact: MCom | Typical Duration: 2 Years
+Program Fact: MCom | Subject-specific curriculum applies
+Program Fact: LLM | Academic Level: PG
+Program Fact: LLM | Typical Duration: 2 Years
+Program Fact: LLM | Subject-specific curriculum applies
+Program Fact: PhD | Academic Level: Research
+Program Fact: PhD | Typical Duration: Variable
+Program Fact: PhD | Subject-specific curriculum applies

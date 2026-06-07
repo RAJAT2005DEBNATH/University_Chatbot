@@ -1,0 +1,212 @@
+Program Name: Bachelor of Technology in Computer Science and Engineering
+Program Abbreviation: B.Tech CSE
+Program Duration: 4 Years
+Program Structure: 8 Semesters
+Program Level: Undergraduate
+Study Mode: Full Time
+Faculty: Engineering and Technology
+Discipline: Computer Science and Engineering
+
+Admission Examination: WBJEE
+Admission Process: Centralized counselling based admission
+Eligibility Requirement: Higher Secondary or equivalent examination
+Eligibility Requirement: Mathematics is mandatory
+Eligibility Requirement: Physics is mandatory
+
+Semester Count: 8
+Academic Year Structure: Two semesters per year
+Teaching Components: Theory classes
+Teaching Components: Laboratory sessions
+Teaching Components: Tutorials
+Teaching Components: Project work
+Teaching Components: Seminar presentations
+
+Core Area: Programming
+Core Area: Algorithms
+Core Area: Databases
+Core Area: Operating Systems
+Core Area: Computer Networks
+Core Area: Software Engineering
+Core Area: Artificial Intelligence
+Core Area: Machine Learning
+Core Area: Cyber Security
+Core Area: Cloud Computing
+
+Programming Language: C
+Programming Language: C++
+Programming Language: Java
+Programming Language: Python
+Programming Language: JavaScript
+Programming Language: SQL
+
+Semester 1 Subject: Engineering Mathematics I
+Semester 1 Subject: Engineering Physics
+Semester 1 Subject: Basic Electrical Engineering
+Semester 1 Subject: Engineering Graphics
+Semester 1 Subject: Programming Fundamentals
+
+Semester 2 Subject: Engineering Mathematics II
+Semester 2 Subject: Basic Electronics
+Semester 2 Subject: Environmental Studies
+Semester 2 Subject: Data Structures
+Semester 2 Subject: Communication Skills
+
+Semester 3 Subject: Discrete Mathematics
+Semester 3 Subject: Digital Logic Design
+Semester 3 Subject: Object Oriented Programming
+Semester 3 Subject: Computer Organization
+Semester 3 Subject: Probability and Statistics
+
+Semester 4 Subject: Design and Analysis of Algorithms
+Semester 4 Subject: Operating Systems
+Semester 4 Subject: Database Management Systems
+Semester 4 Subject: Microprocessors
+Semester 4 Subject: Software Engineering Fundamentals
+
+Semester 5 Subject: Computer Networks
+Semester 5 Subject: Theory of Computation
+Semester 5 Subject: Web Technologies
+Semester 5 Subject: Advanced Database Systems
+Semester 5 Subject: Numerical Methods
+
+Semester 6 Subject: Compiler Design
+Semester 6 Subject: Artificial Intelligence
+Semester 6 Subject: Machine Learning
+Semester 6 Subject: Information Security
+Semester 6 Subject: Distributed Computing
+
+Semester 7 Subject: Cloud Computing
+Semester 7 Subject: Big Data Analytics
+Semester 7 Subject: Cyber Security
+Semester 7 Subject: Internet of Things
+Semester 7 Subject: Major Project Phase I
+
+Semester 8 Subject: Major Project Phase II
+Semester 8 Subject: Industrial Training
+Semester 8 Subject: Seminar and Technical Presentation
+Semester 8 Subject: Professional Ethics
+Semester 8 Subject: Elective Courses
+
+Laboratory: Programming Laboratory
+Laboratory: Data Structures Laboratory
+Laboratory: Database Laboratory
+Laboratory: Operating Systems Laboratory
+Laboratory: Network Laboratory
+Laboratory: Machine Learning Laboratory
+Laboratory: Web Technology Laboratory
+Laboratory: Software Engineering Laboratory
+
+Assessment Method: Internal Assessment
+Assessment Method: Continuous Evaluation
+Assessment Method: Practical Examination
+Assessment Method: End Semester Examination
+Assessment Method: Project Evaluation
+Assessment Method: Viva Voce Examination
+
+Academic Requirement: Maintain minimum attendance percentage
+Academic Requirement: Complete laboratory assignments
+Academic Requirement: Submit project reports
+Academic Requirement: Pass theory examinations
+Academic Requirement: Pass practical examinations
+
+Project Category: Web Application Development
+Project Category: Mobile Application Development
+Project Category: Machine Learning Applications
+Project Category: Computer Vision Systems
+Project Category: Natural Language Processing
+Project Category: Cloud Based Solutions
+Project Category: Cyber Security Applications
+Project Category: Internet of Things Applications
+
+Technical Skill: Problem Solving
+Technical Skill: Data Structures
+Technical Skill: Algorithms
+Technical Skill: Database Design
+Technical Skill: Software Development
+Technical Skill: Version Control
+Technical Skill: API Development
+Technical Skill: Debugging
+
+Software Tool: Git
+Software Tool: GitHub
+Software Tool: Visual Studio Code
+Software Tool: Eclipse IDE
+Software Tool: IntelliJ IDEA
+Software Tool: MySQL
+Software Tool: PostgreSQL
+Software Tool: Linux Operating System
+
+Industry Domain: Software Development
+Industry Domain: Data Science
+Industry Domain: Artificial Intelligence
+Industry Domain: Cloud Engineering
+Industry Domain: Cyber Security
+Industry Domain: DevOps
+Industry Domain: FinTech
+Industry Domain: HealthTech
+
+Career Role: Software Engineer
+Career Role: Backend Developer
+Career Role: Frontend Developer
+Career Role: Full Stack Developer
+Career Role: Data Scientist
+Career Role: Machine Learning Engineer
+Career Role: AI Engineer
+Career Role: Cloud Engineer
+Career Role: DevOps Engineer
+Career Role: Security Analyst
+Career Role: System Administrator
+Career Role: Research Assistant
+
+Internship Area: Software Development
+Internship Area: Data Analytics
+Internship Area: Cloud Technologies
+Internship Area: AI and Machine Learning
+Internship Area: Cyber Security
+Internship Area: Quality Assurance Testing
+
+Placement Preparation Topic: Aptitude Test
+Placement Preparation Topic: Data Structures and Algorithms
+Placement Preparation Topic: System Design
+Placement Preparation Topic: Object Oriented Programming
+Placement Preparation Topic: Database Management Systems
+Placement Preparation Topic: Operating Systems
+Placement Preparation Topic: Computer Networks
+
+Recruiter Category: IT Services Companies
+Recruiter Category: Product Based Companies
+Recruiter Category: Consulting Firms
+Recruiter Category: Startups
+Recruiter Category: Research Organizations
+
+Higher Education Option: M.Tech
+Higher Education Option: MBA
+Higher Education Option: MCA
+Higher Education Option: MS Abroad
+Higher Education Option: PhD
+
+Research Area: Artificial Intelligence
+Research Area: Machine Learning
+Research Area: Deep Learning
+Research Area: Computer Vision
+Research Area: Natural Language Processing
+Research Area: Cyber Security
+Research Area: Data Mining
+Research Area: Distributed Systems
+Research Area: Cloud Computing
+Research Area: Human Computer Interaction
+
+Student Activity: Hackathon Participation
+Student Activity: Coding Competitions
+Student Activity: Open Source Contribution
+Student Activity: Technical Workshops
+Student Activity: Research Projects
+Student Activity: Innovation Challenges
+Student Activity: Technology Clubs
+
+Professional Certification: AWS Cloud Certification
+Professional Certification: Microsoft Azure Certification
+Professional Certification: Google Cloud Certification
+Professional Certification: Oracle Database Certification
+Professional Certification: Cisco Networking Certification
+Professional Certification: Red Hat Linux Certification
