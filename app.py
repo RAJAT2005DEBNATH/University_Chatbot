@@ -20,7 +20,6 @@ st.markdown("""
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
     
-    /* Apply modern font globally */
     html, body, [class*="css"], .stApp {
         font-family: 'Inter', sans-serif !important;
     }
@@ -140,9 +139,14 @@ if "messages" not in st.session_state:
 if "click_query" not in st.session_state:
     st.session_state.click_query = None
 
+
+
 # Sidebar Design
 st.sidebar.markdown("<div style='text-align: center;'><h2 style='color: #ffffff; margin-bottom: 0px;'>Support Agent</h2><p style='color: #a1a1aa; font-size: 0.85rem; margin-bottom: 1.5rem;'>University of Calcutta</p></div>", unsafe_allow_html=True)
 st.sidebar.markdown("<div class='solid-line'></div>", unsafe_allow_html=True)
+
+
+
 
 # Database Status Section
 st.sidebar.markdown("### Knowledge Sources")
@@ -168,6 +172,9 @@ db_status_card("university_info", "University Regulations", "Campuses, hostels, 
 db_status_card("cse_info", "B.Tech CSE Database", "Detailed 8-semester curriculum, subjects, eligibility, WBJEE details, certifications.")
 db_status_card("student_feedback", "Student Reviews & Ratings", "Aggregated feedback and ratings on faculty, placements, cafeteria, WiFi, hostel.")
 
+
+
+
 # Suggested Queries Section
 st.sidebar.markdown("### Suggested Queries")
 
@@ -183,22 +190,33 @@ for label, query_text in suggestions:
     if st.sidebar.button(label, use_container_width=True):
         st.session_state.click_query = query_text
 
+
+
+
 # Main Page Layout
 st.markdown("<h1 class='main-title'>University Student Support</h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle'>Instant intelligent answers about university rules, curriculum, and student feedback using Gemini API & LangChain RAG pipeline.</p>", unsafe_allow_html=True)
+
+
+
+
 
 # Display Chat History
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.write(msg["content"])
 
-# Check if there is a clicked query from the sidebar
+
+
+# If there is a clicked query from the sidebar
 query_input = st.chat_input("Ask a question about the university...")
 if st.session_state.click_query:
     query_input = st.session_state.click_query
     st.session_state.click_query = None  # reset
 
-# Handle User Input
+
+
+
 if query_input:
     # Render user query immediately
     with st.chat_message("user"):
@@ -207,7 +225,7 @@ if query_input:
     
     # Process with the agent pipeline and show step-by-step reasoning flow
     with st.chat_message("assistant"):
-        # We use st.status to display the step-by-step execution flow of the agent
+        
         status_placeholder = st.status("Agent reasoning and retrieval...", expanded=True)
         with status_placeholder:
             final_answer = None
@@ -247,7 +265,9 @@ if query_input:
             st.write(final_answer)
             st.session_state.messages.append({"role": "assistant", "content": final_answer})
             
-            # Simple rerun to update view smoothly
+
             st.rerun()
+
+
 
 st.markdown("<div class='footer'> Calcutta University AI Support Agent</div>", unsafe_allow_html=True)

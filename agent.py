@@ -15,8 +15,7 @@ if not os.getenv("GOOGLE_API_KEY"):
 embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
 
 # Initialize models
-# We use gemini-2.5-flash for speed and reliability.
-# We set JSON response mime type for classification to ensure structured JSON output.
+
 classifier_llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
     temperature=0.0,
@@ -48,9 +47,6 @@ def get_clean_text(content) -> str:
     return str(content)
 
 def check_relevance(query: str) -> dict:
-    """
-    Classifies whether the user query is relevant to the university chatbot scope.
-    """
     prompt = f"""
     You are an advanced query relevance classifier for the University of Calcutta Student Support Chatbot.
     Your job is to determine whether the user's query is relevant to the chatbot's domains.
@@ -195,11 +191,7 @@ def generate_answer(query: str, context_docs: list) -> str:
 
 
 def run_agent_pipeline(query: str):
-    """
-    Generator that processes the user query step-by-step and yields progress updates
-    so that the Streamlit UI can render the flow in real-time.
-    """
-    # Step 1: Relevance Check
+    # Relevance Check
     yield {
         "step": "relevance_check",
         "status": "running",
@@ -234,7 +226,7 @@ def run_agent_pipeline(query: str):
         "message": "Query classified as RELEVANT."
     }
     
-    # Step 2: Intent Classification & DB Selection
+    # Intent Classification & DB Selection
     yield {
         "step": "db_selection",
         "status": "running",
@@ -251,7 +243,7 @@ def run_agent_pipeline(query: str):
         "message": f"Selected source databases: {', '.join(selected_dbs) if selected_dbs else 'None (Direct Chat)'}"
     }
     
-    # Step 3: Retrieval
+    # Retrieval
     context_docs = []
     if selected_dbs:
         yield {
@@ -276,7 +268,7 @@ def run_agent_pipeline(query: str):
             "message": "No database search needed for this query."
         }
         
-    # Step 4: Answer Generation
+    # Answer Generation
     yield {
         "step": "synthesis",
         "status": "running",

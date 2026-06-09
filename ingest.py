@@ -15,10 +15,8 @@ if not os.getenv("GOOGLE_API_KEY"):
     raise ValueError("GOOGLE_API_KEY is not set in the environment or .env file.")
 
 def add_documents_with_retry(embeddings, documents, collection_name, persist_dir, batch_size=10, delay=3):
-    """
-    Initializes a Chroma vector store and adds documents in batches, with automatic
-    retry and backing off if rate limits (429) or other errors occur.
-    """
+    # Initializes a Chroma vector store and adds documents in batches, with automatic
+    # retry and backing off if rate limits (429) or other errors occur.
     print(f"Initializing collection '{collection_name}'...")
     db = Chroma(
         collection_name=collection_name,
