@@ -225,47 +225,70 @@ if query_input:
     
     # Process with the agent pipeline and show step-by-step reasoning flow
     with st.chat_message("assistant"):
-        
         status_placeholder = st.status("Agent reasoning and retrieval...", expanded=True)
-        with status_placeholder:
-            final_answer = None
+        # Create an empty placeholder for the streamed answer outside/under the status
+        answer_placeholder = st.empty()
+        
+        final_answer = ""
+        status_completed = False
+        is_relevant = True
+        
+        for update in run_agent_pipeline(query_input):
+            step = update["step"]
+            status = update["status"]
+            msg = update.get("message", "")
             
-            for update in run_agent_pipeline(query_input):
-                step = update["step"]
-                status = update["status"]
-                msg = update.get("message", "")
+            if step == "final_answer":
+                # If we are starting/running the final answer, collapse the status first
+                if not status_completed:
+                    status_placeholder.update(
+                        label="Reasoning & Retrieval complete" if is_relevant else "Query blocked", 
+                        state="complete" if is_relevant else "error", 
+                        expanded=False
+                    )
+                    status_completed = True
                 
+                # Update final answer content
+                if "chunk" in update:
+                    final_answer += update["chunk"]
+                    answer_placeholder.markdown(final_answer)
+                elif "answer" in update:
+                    # Final answer is complete or blocked (non-streamed fallback)
+                    final_answer = update["answer"]
+                    answer_placeholder.markdown(final_answer)
+            else:
+                # Reasoning/logs steps
                 if status == "running":
-                    st.markdown(f"**{msg}**")
+                    with status_placeholder:
+                        st.markdown(f"**{msg}**")
                 elif status == "completed":
                     if step == "relevance_check":
                         is_relevant = update.get("is_relevant", True)
-                        if is_relevant:
-                            st.markdown(f"**{msg}**")
-                        else:
-                            st.markdown(f"**{msg}** (Reason: {update.get('reason')})")
+                        with status_placeholder:
+                            if is_relevant:
+                                st.markdown(f"**{msg}**")
+                            else:
+                                st.markdown(f"**{msg}** (Reason: {update.get('reason')})")
                     elif step == "db_selection":
-                        dbs = update.get("databases", [])
-                        st.markdown(f"**{msg}**")
+                        with status_placeholder:
+                            st.markdown(f"**{msg}**")
                     elif step == "retrieval":
-                        st.markdown(f"**{msg}**")
+                        with status_placeholder:
+                            st.markdown(f"**{msg}**")
                     elif step == "synthesis":
-                        st.markdown(f"**{msg}**")
-                    elif step == "final_answer":
-                        final_answer = update.get("answer")
-            
+                        with status_placeholder:
+                            st.markdown(f"**{msg}**")
+        
+        # Ensure status is updated if we exited without final_answer (e.g. error/exception)
+        if not status_completed:
             status_placeholder.update(
-                label="Reasoning & Retrieval complete" if final_answer else "Query blocked", 
-                state="complete" if final_answer else "error", 
+                label="Reasoning & Retrieval complete" if is_relevant else "Query blocked", 
+                state="complete" if is_relevant else "error", 
                 expanded=False
             )
             
-        # Write final answer outside status
         if final_answer:
-            st.write(final_answer)
             st.session_state.messages.append({"role": "assistant", "content": final_answer})
-            
-
             st.rerun()
 
 

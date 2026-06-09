@@ -189,6 +189,50 @@ def generate_answer(query: str, context_docs: list) -> str:
     response = response_llm.invoke(prompt)
     return get_clean_text(response.content)
 
+def generate_answer_stream(query: str, context_docs: list):
+    """
+    Generates the final response stream based on user query and retrieved context snippets.
+    """
+    if not context_docs:
+        prompt = f"""
+        You are the University of Calcutta Student Support Chatbot, a friendly, warm, and highly expressive assistant.
+        
+        Your goal is to welcome the student and make them feel supported. Respond to their greeting or meta-question in an enthusiastic, engaging, and polite manner. 
+        
+        Introduce yourself warmly, explain your role, and invite them to ask questions. Be expressive and mention in detail the various areas you can help them with, including:
+        1. General University Information (such as established date, campuses, faculties, departments, libraries, hostel allocation rules, and student support cells).
+        2. Detailed B.Tech Computer Science & Engineering (CSE) Program details (such as curriculum details, semester-by-semester subjects, labs, admission exams like WBJEE, eligibility criteria, internship preparation, and career paths).
+        3. Student Feedback & Surveys (what actual students say about the campus facilities, WiFi quality, hostels, placements, faculty, cafeteria, and student welfare services).
+        
+        End with an encouraging invite to ask any query they have in mind.
+        
+        Query: {query}
+        
+        Answer:
+        """
+    else:
+        context_str = "\n\n".join([doc["content"] for doc in context_docs])
+        prompt = f"""
+        You are the University of Calcutta Student Support Chatbot, an expressive, highly detailed, and helpful academic support assistant. Your task is to provide a comprehensive, detailed, and beautifully formatted response to the student's query based ONLY on the provided context.
+        
+        To serve the student best, follow these guidelines:
+        - **Be Expressive and Detailed**: Do not give short, single-sentence or overly brief summaries. Elaborate on the information available in the context. Provide complete explanations, break down multi-part answers, and include relevant background context from the provided text.
+        - **Use Rich Formatting**: Make your response highly readable and engaging. Use headers, bullet points, numbered lists, bold text for key terms, and line breaks to organize the information logically.
+        - **Maintain a Friendly and Encouraging Tone**: Speak in a warm, welcoming, and encouraging voice, similar to a dedicated university academic advisor.
+        - **Maintain Clean Text**: Do NOT mention, cite, or reference any source names or file names (such as "university_info", "cse_info", "student_feedback", or [university_info], etc.) in your response. Do NOT include any "[Source: ...]" markers or raw metadata tags. Just provide a clean, direct, and well-formatted plain text answer to the user.
+        - **Handling Missing Information**: If the context does not contain enough information to fully answer the question, clearly and politely state what details you have, answer as much as possible with the available facts, and explain what is missing.
+        
+        Context:
+        {context_str}
+        
+        User Query: {query}
+        
+        Answer:
+        """
+    
+    for chunk in response_llm.stream(prompt):
+        yield get_clean_text(chunk.content)
+
 
 def run_agent_pipeline(query: str):
     # Relevance Check
@@ -275,7 +319,15 @@ def run_agent_pipeline(query: str):
         "message": "Synthesizing final answer..."
     }
     
-    answer = generate_answer(query, context_docs)
+    full_answer = ""
+    for chunk in generate_answer_stream(query, context_docs):
+        full_answer += chunk
+        yield {
+            "step": "final_answer",
+            "status": "running",
+            "chunk": chunk,
+            "answer": full_answer
+        }
     
     yield {
         "step": "synthesis",
@@ -286,5 +338,5 @@ def run_agent_pipeline(query: str):
     yield {
         "step": "final_answer",
         "status": "completed",
-        "answer": answer
+        "answer": full_answer
     }
