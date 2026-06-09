@@ -7,7 +7,7 @@ from agent import run_agent_pipeline
 # Page configuration
 st.set_page_config(
     page_title="Calcutta University Student Support Agent",
-    page_icon="🎓",
+    page_icon=None,
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -18,124 +18,115 @@ load_dotenv()
 # Inject custom CSS for premium aesthetics
 st.markdown("""
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
     
     /* Apply modern font globally */
     html, body, [class*="css"], .stApp {
-        font-family: 'Outfit', sans-serif !important;
+        font-family: 'Inter', sans-serif !important;
     }
     
-    /* Sleek gradient background */
+    /* Solid dark background */
     .stApp {
-        background: linear-gradient(135deg, #0e121a 0%, #171d2c 100%) !important;
-        color: #f1f5f9 !important;
+        background-color: #121214 !important;
+        color: #f4f4f5 !important;
     }
     
     /* Sidebar styling */
     [data-testid="stSidebar"] {
-        background-color: #0b0e14 !important;
-        border-right: 1px solid #1e293b !important;
+        background-color: #18181b !important;
+        border-right: 1px solid #27272a !important;
         padding-top: 2rem !important;
     }
     
     /* Titles and Header styles */
     h1, h2, h3 {
-        font-weight: 700 !important;
+        font-weight: 600 !important;
+        color: #ffffff !important;
     }
     
     .main-title {
-        background: linear-gradient(90deg, #38bdf8 0%, #a855f7 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-size: 2.5rem !important;
+        color: #ffffff !important;
+        font-size: 2.2rem !important;
         margin-bottom: 0.5rem !important;
-        display: flex;
-        align-items: center;
-        gap: 10px;
     }
     
     .subtitle {
-        color: #94a3b8 !important;
-        font-size: 1.1rem;
+        color: #a1a1aa !important;
+        font-size: 1.05rem;
         margin-bottom: 2rem !important;
     }
     
-    /* Glassmorphic Cards */
+    /* Solid Cards */
     .db-card {
-        background: rgba(30, 41, 59, 0.45);
-        backdrop-filter: blur(12px);
-        border: 1px solid rgba(255, 255, 255, 0.05);
-        border-radius: 12px;
-        padding: 16px;
+        background-color: #1f1f23 !important;
+        border: 1px solid #27272a !important;
+        border-radius: 6px;
+        padding: 14px;
         margin-bottom: 12px;
-        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        transition: background-color 0.2s ease, border-color 0.2s ease;
     }
     
     .db-card:hover {
-        transform: translateY(-2px);
-        border-color: rgba(56, 189, 248, 0.3);
-        box-shadow: 0 8px 30px rgba(56, 189, 248, 0.1);
-        background: rgba(30, 41, 59, 0.6);
+        border-color: #3f3f46 !important;
+        background-color: #27272a !important;
     }
     
     /* Dynamic database status lights */
     .status-light {
-        height: 10px;
-        width: 10px;
+        height: 8px;
+        width: 8px;
         border-radius: 50%;
         display: inline-block;
         margin-right: 8px;
-        box-shadow: 0 0 8px currentColor;
     }
     
     .status-active {
-        color: #10b981;
         background-color: #10b981;
     }
     
     .status-label {
         font-weight: 500;
-        font-size: 0.95rem;
+        font-size: 0.9rem;
         display: flex;
         align-items: center;
     }
     
     /* Chat message bubble customizations */
     div[data-testid="stChatMessage"] {
-        background-color: rgba(30, 41, 59, 0.25) !important;
-        border: 1px solid rgba(255, 255, 255, 0.03) !important;
-        border-radius: 12px !important;
+        background-color: #18181b !important;
+        border: 1px solid #27272a !important;
+        border-radius: 6px !important;
         margin-bottom: 1rem !important;
         padding: 1rem !important;
     }
     
     div[data-testid="stChatMessage"][data-user="true"] {
-        background-color: rgba(168, 85, 247, 0.08) !important;
-        border-color: rgba(168, 85, 247, 0.15) !important;
+        background-color: #27272a !important;
+        border-color: #3f3f46 !important;
     }
     
     /* Agent flow logger container */
     div[data-testid="stStatusWidget"] {
-        background-color: rgba(15, 23, 42, 0.6) !important;
-        border: 1px solid rgba(56, 189, 248, 0.2) !important;
-        border-radius: 10px !important;
+        background-color: #18181b !important;
+        border: 1px solid #27272a !important;
+        border-radius: 6px !important;
     }
     
-    /* Gradient line divider */
-    .gradient-line {
-        height: 2px;
-        background: linear-gradient(90deg, #38bdf8, #a855f7, transparent);
+    /* Solid line divider */
+    .solid-line {
+        height: 1px;
+        background-color: #27272a;
         margin-bottom: 1.5rem;
     }
     
     /* Footer */
     .footer {
         text-align: center;
-        color: #475569;
+        color: #71717a;
         font-size: 0.8rem;
         margin-top: 3rem;
         padding-top: 1rem;
-        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        border-top: 1px solid #27272a;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -150,11 +141,11 @@ if "click_query" not in st.session_state:
     st.session_state.click_query = None
 
 # Sidebar Design
-st.sidebar.markdown("<div style='text-align: center;'><h2 style='color: #f1f5f9; margin-bottom: 0px;'>🎓 Support Agent</h2><p style='color: #64748b; font-size: 0.85rem; margin-bottom: 1.5rem;'>University of Calcutta</p></div>", unsafe_allow_html=True)
-st.sidebar.markdown("<div class='gradient-line'></div>", unsafe_allow_html=True)
+st.sidebar.markdown("<div style='text-align: center;'><h2 style='color: #ffffff; margin-bottom: 0px;'>Support Agent</h2><p style='color: #a1a1aa; font-size: 0.85rem; margin-bottom: 1.5rem;'>University of Calcutta</p></div>", unsafe_allow_html=True)
+st.sidebar.markdown("<div class='solid-line'></div>", unsafe_allow_html=True)
 
 # Database Status Section
-st.sidebar.markdown("### 🗄️ Knowledge Sources")
+st.sidebar.markdown("### Knowledge Sources")
 
 # Helper for displaying database card
 def db_status_card(name, label, desc):
@@ -166,10 +157,10 @@ def db_status_card(name, label, desc):
     <div class="db-card">
         <div class="status-label">
             <span class="status-light {status_class}"></span>
-            <span style="font-weight: 600; color: #f1f5f9;">{label}</span>
+            <span style="font-weight: 600; color: #ffffff;">{label}</span>
         </div>
-        <div style="font-size: 0.8rem; color: #94a3b8; margin-top: 4px;">{desc}</div>
-        <div style="font-size: 0.75rem; color: #38bdf8; margin-top: 8px; font-weight: 500;">Status: {status_text}</div>
+        <div style="font-size: 0.8rem; color: #a1a1aa; margin-top: 4px;">{desc}</div>
+        <div style="font-size: 0.75rem; color: #71717a; margin-top: 8px; font-weight: 500;">Status: {status_text}</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -178,7 +169,7 @@ db_status_card("cse_info", "B.Tech CSE Database", "Detailed 8-semester curriculu
 db_status_card("student_feedback", "Student Reviews & Ratings", "Aggregated feedback and ratings on faculty, placements, cafeteria, WiFi, hostel.")
 
 # Suggested Queries Section
-st.sidebar.markdown("### 💡 Try Asking")
+st.sidebar.markdown("### Suggested Queries")
 
 suggestions = [
     ("CSE Eligibility", "What are the eligibility criteria and admission exams for B.Tech CSE?"),
@@ -193,7 +184,7 @@ for label, query_text in suggestions:
         st.session_state.click_query = query_text
 
 # Main Page Layout
-st.markdown("<h1 class='main-title'>🎓 University AI Student Support</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>University Student Support</h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle'>Instant intelligent answers about university rules, curriculum, and student feedback using Gemini API & LangChain RAG pipeline.</p>", unsafe_allow_html=True)
 
 # Display Chat History
@@ -217,7 +208,7 @@ if query_input:
     # Process with the agent pipeline and show step-by-step reasoning flow
     with st.chat_message("assistant"):
         # We use st.status to display the step-by-step execution flow of the agent
-        status_placeholder = st.status("🔮 Agent reasoning and retrieval...", expanded=True)
+        status_placeholder = st.status("Agent reasoning and retrieval...", expanded=True)
         with status_placeholder:
             final_answer = None
             
@@ -227,26 +218,26 @@ if query_input:
                 msg = update.get("message", "")
                 
                 if status == "running":
-                    st.markdown(f"⏳ **{msg}**")
+                    st.markdown(f"**{msg}**")
                 elif status == "completed":
                     if step == "relevance_check":
                         is_relevant = update.get("is_relevant", True)
                         if is_relevant:
-                            st.markdown(f"✅ **{msg}**")
+                            st.markdown(f"**{msg}**")
                         else:
-                            st.markdown(f"❌ **{msg}** (Reason: {update.get('reason')})")
+                            st.markdown(f"**{msg}** (Reason: {update.get('reason')})")
                     elif step == "db_selection":
                         dbs = update.get("databases", [])
-                        st.markdown(f"🗂️ **{msg}**")
+                        st.markdown(f"**{msg}**")
                     elif step == "retrieval":
-                        st.markdown(f"🔍 **{msg}**")
+                        st.markdown(f"**{msg}**")
                     elif step == "synthesis":
-                        st.markdown(f"✨ **{msg}**")
+                        st.markdown(f"**{msg}**")
                     elif step == "final_answer":
                         final_answer = update.get("answer")
             
             status_placeholder.update(
-                label="✅ Reasoning & Retrieval complete" if final_answer else "❌ Query blocked", 
+                label="Reasoning & Retrieval complete" if final_answer else "Query blocked", 
                 state="complete" if final_answer else "error", 
                 expanded=False
             )
