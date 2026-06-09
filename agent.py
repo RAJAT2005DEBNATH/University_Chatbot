@@ -17,13 +17,13 @@ embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
 # Initialize models
 
 classifier_llm = ChatGoogleGenerativeAI(
-    model="gemini-2.5-flash",
+    model="gemini-3.1-flash-lite",
     temperature=0.0,
     model_kwargs={"response_mime_type": "application/json"}
 )
 
 response_llm = ChatGoogleGenerativeAI(
-    model="gemini-3.5-flash",
+    model="gemini-2.5-flash",
     temperature=0.3
 )
 def get_clean_text(content) -> str:
